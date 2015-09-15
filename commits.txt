@@ -1,0 +1,29 @@
+commit 8f8d9b23293c22338c4babfe8179eded21f806ec
+Author: Albert Pedrola <b.albemar@gmail.com>
+Date:   Mon Sep 14 19:59:19 2015 +0200
+
+    Agregue portafolio
+
+commit d5ce40229f402707f0f64537585c04754bc33d41
+Author: Albert Pedrola <b.albemar@gmail.com>
+Date:   Mon Sep 14 19:58:31 2015 +0200
+
+    Agregué redes sociales y descripcion
+
+commit 883da861b31be9e32e81fffe84acfe9407e46a09
+Author: Albert Pedrola <b.albemar@gmail.com>
+Date:   Mon Sep 14 19:53:00 2015 +0200
+
+    Perfil web escrito
+
+commit de8f047fdb61c02a63da1224171626b546d2a007
+Author: Albert Pedrola <b.albemar@gmail.com>
+Date:   Mon Sep 14 19:50:41 2015 +0200
+
+    Agregué nombre y foto de perfil
+
+commit 264f5e75e106207acd9c0a10b83b85491e91c6ff
+Author: Albert Pedrola <b.albemar@gmail.com>
+Date:   Mon Sep 14 19:44:25 2015 +0200
+
+    Estos son los archivos base de mi portafolio
